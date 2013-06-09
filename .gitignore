@@ -1,0 +1,4 @@
+*.DS_Store
+/files/cache/*
+/files/tmp/*
+*.sass-cache
